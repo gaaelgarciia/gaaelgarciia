@@ -9,3 +9,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gaaelgarciia&style=flat-square&color=red" alt=""/>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gaaelgarciia&theme=gruvbox&hide_border=true&locale=es&card_width=490)](https://git.io/streak-stats)
