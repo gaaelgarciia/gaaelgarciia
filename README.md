@@ -11,7 +11,7 @@
   [Dotfiles & Gear](https://github.com/gaaelgarciia/dotfiles)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-458588?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gael-garciaa/)](https://www.linkedin.com/in/gael-garciaa/)
-  [![Instagram](https://img.shields.io/badge/-@gaael.garciiaa-CC241D?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/gaaelgarciia)
+  [![Instagram](https://img.shields.io/badge/-@gaael.garciia-CC241D?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/gaael.garciia)
   [![GitHub Followers](https://img.shields.io/github/followers/gaaelgarciia?label=Followers&style=flat-square&color=D79921&logo=github&logoColor=white)](https://github.com/gaaelgarciia)
 </div>
 
