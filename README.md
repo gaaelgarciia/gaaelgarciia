@@ -8,7 +8,7 @@
 
   Estudiante de 3er año en Ingeniría Informática en la *[FIC](https://www.fic.udc.es/)*, especialidad de computación.
 
-  [Dotfiles & Gear](https://github.com/gaaelgarciia/dotfiles)
+  [Dotfiles](https://github.com/gaaelgarciia/dotfiles)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-458588?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gael-garciaa/)](https://www.linkedin.com/in/gael-garciaa/)
   [![Instagram](https://img.shields.io/badge/-@gaael.garciia-CC241D?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/gaael.garciia)
