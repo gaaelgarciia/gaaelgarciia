@@ -6,7 +6,7 @@
   </h1>
   <img align="right" src="https://66.media.tumblr.com/3d05599acbae7a7d95fec533f8a3b2d1/tumblr_mpzxpfGkZX1rl3tlpo1_500.png" width="140"/>
 
-  Estudiante de 3er año en Ingeniría Informática en la *[FIC](https://www.fic.udc.es/)*, especialidad de computación.
+  Estudiante de 4to año en Ingeniría Informática en la *[FIC](https://www.fic.udc.es/)*, especialidad de computación.
 
   [Dotfiles](https://github.com/gaaelgarciia/dotfiles)
 
