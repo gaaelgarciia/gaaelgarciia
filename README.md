@@ -9,4 +9,4 @@ Estudiante de 4to año en Ingeniería Informática en la [FIC](https://www.fic.u
 
 <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Ai_Hayasaka_Shinomiya_Kaguya_C_Programming_Language.png">
    
-[Dotfiles](https://github.com/gaaelgarciia/dotfiles) | [LinkedIn](https://www.linkedin.com/in/gael-garciaa/)
+[Web](https://gaaelgarciia.statichost.page/) | [Dotfiles](https://github.com/gaaelgarciia/dotfiles) | [LinkedIn](https://www.linkedin.com/in/gael-garciaa/)
